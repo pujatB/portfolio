@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fuggles&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fuggles&family=Open+Sans+Condensed:wght@300&family=Zen+Loop&display=swap");
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(52, 52, 53);
+    color: white;
+    
+}
+h1 {
+    font-family:Snell Roundhand, cursive;
+    color: rgb(245, 209, 185);
+    margin-left: 30px;
+}
+
+.main-content{
+    display:flex;
+    align-items: center;
+    margin: 20px;
+}
+
+.My-image {
+    border : 5px solid white;
+    box-shadow: 5px 10px 8px #c9c6c6;
+    padding:10px;
+}
+
+.about-me {
+    padding:30px;
+    font-size: 20px;
+    font-family: "open sans condensed";
+    margin-left: 20px;
+
+
+}
